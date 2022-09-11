@@ -1,6 +1,6 @@
 ### Eu sou Júlio César 🙋‍♂️
 
-[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://juliodev2022.com)
+[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagran.com/juliodev2022.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-cesar-736069229/)
 
 ![Devs GitHub stats](https://github-readme-stats.vercel.app/api?username=Juliodevs2022&show_icons=true&theme=tokyonight)
