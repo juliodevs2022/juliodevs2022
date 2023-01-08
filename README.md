@@ -1,8 +1,5 @@
 ### OI EU SOU O jULIO 👋
 
-< >div
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juliodevs&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGF&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/juliodev2022)
 
 ### PARA CODAR É MUITO BOM PENSAR ###
